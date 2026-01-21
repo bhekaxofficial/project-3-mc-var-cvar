@@ -138,6 +138,7 @@ This isolates **what actually drives tail risk when markets dislocate**.
 **Bheka Mabika**
 
 This project represents my approach to quantitative risk analysis: **practical, model-driven, and market-aware**.  
+
 It is built with the mindset of a risk or trading desk — focusing on tail behaviour, model assumptions, and stress outcomes rather than headline statistics.
 
 The goal is to develop tools that quantify downside exposure under both normal conditions and structural breaks, forming a foundation for more advanced portfolio construction, risk control, and systematic trading research.
